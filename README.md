@@ -14,9 +14,7 @@
     🎀 Travel • Anime • Books • Code • Game
 </pre>
 <br>
-  <div align="center">
-  <img src="https://raw.githubusercontent.com/Hanafubuki/Hanafubuki/main/assets/sakura.svg" width="22%" alt="Spinning sakura blossom with falling petals" />
-</div>
+<img src="https://raw.githubusercontent.com/Hanafubuki/Hanafubuki/main/assets/petals.svg" height="40" alt="Hopping petals" />
 
 <br><br>
 
