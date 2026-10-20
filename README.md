@@ -9,10 +9,10 @@
 <br><br>
 <pre>
     🌸 Hanafubuki (花吹雪) • a blizzard of cherry blossoms
-    💼 Back-end developer • Laravel & PHP • REST APIs
-    💻 React + TypeScript admin dashboards • Vite • Tailwind
+    💼 Back-end developer • Laravel/PHP • FastAPI/Python • REST APIs
+    💻 React + TypeScript • VueJS • React Native • Tailwind 
     🤖 Multi-agent AI dev pipelines • Claude Code
-    🎀 Cute terminal themes • Anime • Games • Code
+    🎀 Travel • Anime • Books • Code • Game
 </pre>
 <br>
 <img src="https://raw.githubusercontent.com/Hanafubuki/Hanafubuki/main/assets/petals.svg" height="40" alt="Hopping petals" />
@@ -24,7 +24,7 @@
 
 <br>
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+If you like what I do, maybe consider buying me a coffee/tea <3
 
 <a href="https://buymeacoffee.com/hanafubuki" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-pink.png" alt="Buy Me A Coffee" width="150" /></a>
 
