@@ -20,7 +20,7 @@
 
 [![Website](https://img.shields.io/badge/Website-ikigaihubs.com-f8bbd0?style=for-the-badge&logo=safari&logoColor=fde4ec&labelColor=2a1f2d)](https://ikigaihubs.com/)
 [![Repositories](https://img.shields.io/badge/GitHub-Repositories-f48fb1?style=for-the-badge&logo=github&logoColor=fde4ec&labelColor=2a1f2d)](https://github.com/Hanafubuki?tab=repositories)
-[![Summit App](https://img.shields.io/badge/Cute_Theme-Terminal-ec407a?style=for-the-badge&logo=gnometerminal&logoColor=fde4ec&labelColor=2a1f2d)](https://github.com/Hanafubuki/cute-theme-terminal)
+[![Summit App](https://img.shields.io/badge/Summit-App-ec407a?style=for-the-badge&logo=gnometerminal&logoColor=fde4ec&labelColor=2a1f2d)](https://summit.ikigaihubs.com)
 
 <br>
 
