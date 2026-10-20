@@ -30,5 +30,6 @@ If you like what I do, maybe consider buying me a coffee/tea <3
 <a href="https://buymeacoffee.com/hanafubuki" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-pink.png" alt="Buy Me A Coffee" width="150" /></a>
 
 </div>
-
-  <img src="https://raw.githubusercontent.com/Hanafubuki/Hanafubuki/main/assets/sakura.svg" width="22%" alt="Spinning sakura blossom with falling petals" />
+/*
+  <img src="https://raw.githubusercontent.com/Hanafubuki/Hanafubuki/main/assets/sakura.svg" width="22%" alt="Spinning sakura blossom with falling petals" align="left" />
+  */
