@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 40" width="240" height="40">
+  <defs>
+    <path id="p" d="M0 0 C -6 -7 -6 -16 0 -20 C 6 -16 6 -7 0 0 Z"/>
+  </defs>
+  <style>
+    use { fill: #f8bbd0; stroke: #ec407a; stroke-width: 1; transform-box: fill-box; transform-origin: center; animation: hop 2.4s ease-in-out infinite; }
+    use:nth-of-type(2) { animation-delay: .3s; fill: #f48fb1; }
+    use:nth-of-type(3) { animation-delay: .6s; }
+    use:nth-of-type(4) { animation-delay: .9s; fill: #f48fb1; }
+    use:nth-of-type(5) { animation-delay: 1.2s; }
+    @keyframes hop {
+      0%, 100% { transform: translateY(0) rotate(-15deg); }
+      50%      { transform: translateY(-8px) rotate(15deg); }
+    }
+  </style>
+  <use href="#p" x="40" y="32"/>
+  <use href="#p" x="80" y="32"/>
+  <use href="#p" x="120" y="32"/>
+  <use href="#p" x="160" y="32"/>
+  <use href="#p" x="200" y="32"/>
+</svg>

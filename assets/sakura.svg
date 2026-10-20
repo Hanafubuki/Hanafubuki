@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="300" height="300">
+  <defs>
+    <path id="petal" d="M0 0 C -14 -16 -14 -40 0 -52 C 4 -46 8 -46 12 -52 C 22 -38 18 -14 0 0 Z" transform="translate(-6 0)"/>
+    <path id="mini" d="M0 0 C -5 -6 -5 -14 0 -18 C 5 -14 5 -6 0 0 Z"/>
+    <radialGradient id="petalFill" cx="50%" cy="90%" r="90%">
+      <stop offset="0%" stop-color="#f06292"/>
+      <stop offset="45%" stop-color="#f8bbd0"/>
+      <stop offset="100%" stop-color="#fde4ec"/>
+    </radialGradient>
+  </defs>
+  <style>
+    .bloom { transform-origin: 150px 150px; animation: spin 24s linear infinite, breathe 4s ease-in-out infinite; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    @keyframes breathe { 50% { scale: 1.05; } }
+    .fall { fill: #f8bbd0; opacity: 0; animation: fall 7s linear infinite; }
+    .fall:nth-of-type(2) { animation-delay: 1.4s; animation-duration: 8s; }
+    .fall:nth-of-type(3) { animation-delay: 2.8s; animation-duration: 6.5s; }
+    .fall:nth-of-type(4) { animation-delay: 4.2s; animation-duration: 7.5s; }
+    .fall:nth-of-type(5) { animation-delay: 5.6s; animation-duration: 9s; }
+    @keyframes fall {
+      0%   { opacity: 0; transform: translate(0, -20px) rotate(0deg); }
+      10%  { opacity: .9; }
+      50%  { transform: translate(-30px, 150px) rotate(180deg); }
+      90%  { opacity: .9; }
+      100% { opacity: 0; transform: translate(10px, 320px) rotate(360deg); }
+    }
+  </style>
+
+  <g class="fall-layer">
+    <use href="#mini" class="fall" x="40"/>
+    <use href="#mini" class="fall" x="250"/>
+    <use href="#mini" class="fall" x="120"/>
+    <use href="#mini" class="fall" x="200"/>
+    <use href="#mini" class="fall" x="80"/>
+  </g>
+
+  <g class="bloom">
+    <g transform="translate(150 150)" fill="url(#petalFill)" stroke="#ec407a" stroke-width="1.5" stroke-linejoin="round">
+      <use href="#petal" transform="rotate(0)"/>
+      <use href="#petal" transform="rotate(72)"/>
+      <use href="#petal" transform="rotate(144)"/>
+      <use href="#petal" transform="rotate(216)"/>
+      <use href="#petal" transform="rotate(288)"/>
+    </g>
+    <g transform="translate(150 150)" stroke="#d81b60" stroke-width="1.5" stroke-linecap="round">
+      <line x1="0" y1="0" x2="0" y2="-20"/>
+      <line x1="0" y1="0" x2="19" y2="-6"/>
+      <line x1="0" y1="0" x2="12" y2="16"/>
+      <line x1="0" y1="0" x2="-12" y2="16"/>
+      <line x1="0" y1="0" x2="-19" y2="-6"/>
+      <circle r="9" fill="#fff59d" stroke="#f9a825"/>
+    </g>
+  </g>
+</svg>
