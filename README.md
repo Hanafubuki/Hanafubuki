@@ -2,16 +2,16 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=34&duration=3200&pause=1200&color=F8BBD0&center=true&vCenter=true&width=900&height=80&lines=Hello+hello+%E2%9C%BF;I'm+Michele%2C+a.k.a.+Hanafubuki;Back-end+developer;Laravel+%C2%B7+PHP+%C2%B7+React+%2B+TypeScript;Building+AI+agent+pipelines;Tech+enthusiast+%E2%9C%A9" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=34&duration=3200&pause=1200&color=F8BBD0&center=true&vCenter=true&width=900&height=80&lines=Hello+hello+%E2%9C%BF;I'm+Michele%2C+a.k.a.+Hanafubuki;Full-Stack+and+AI+engineer;FastAPI+%C2%B7+Laravel+%C2%B7+React+%2B+TypeScript;Building+AI+agent+pipelines;Tech+enthusiast+%E2%9C%A9" />
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=34&duration=3200&pause=1200&color=D81B60&center=true&vCenter=true&width=900&height=80&lines=Hello+hello+%E2%9C%BF;I'm+Michele%2C+a.k.a.+Hanafubuki;Back-end+developer;Laravel+%C2%B7+PHP+%C2%B7+React+%2B+TypeScript;Building+AI+agent+pipelines;Cute+terminals+enthusiast+%E2%9C%A9" />
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=34&duration=3200&pause=1200&color=D81B60&center=true&vCenter=true&width=900&height=80&lines=Hello+hello+%E2%9C%BF;I'm+Michele%2C+a.k.a.+Hanafubuki;Back-end+developer;Laravel+%C2%B7+PHP+%C2%B7+React+%2B+TypeScript;Building+AI+agent+pipelines;Cute+terminals+enthusiast+%E2%9C%A9" width="70%" alt="Typing animation: Hello hello, I'm Michele, back-end developer" />
 </picture>
 <br><br>
 <pre>
     🌸 Hanafubuki (花吹雪) • a blizzard of cherry blossoms
-    💼 Back-end developer • Laravel/PHP • FastAPI/Python • REST APIs
-    💻 React + TypeScript • VueJS • React Native • Tailwind 
-    🤖 Multi-agent AI dev pipelines • Claude Code
+    💼 Full-Stack and AI Engineer • Laravel/PHP • FastAPI/Python • AI agents
+    💻 React + TypeScript • React Native • RAG • LangGraph
+    🤖 Multi-agent AI pipelines • Claude Code
     🎀 Travel • Anime • Books • Code • Game
 </pre>
 <br>
